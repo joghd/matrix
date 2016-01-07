@@ -1,5 +1,6 @@
 # matrix
-Repo contains a simple Matrix class template for working with 2d matrices
+Repo contains a simple Matrix class template for working with 2d matrices.
+
 features:
   * calculate determinant
   * get/set values via get() and set() member functions
