@@ -2,7 +2,7 @@
 Repo contains a simple Matrix class template for working with 2d matrices.
 
 features:
-  * calculate determinant
+  * calculates determinant
   * get/set values via get() and set() member functions
   * Appropriate overloaded operators
   * Inverse matrix (IN PROGRESS)
